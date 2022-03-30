@@ -9,4 +9,4 @@ The purpose of these overshoots is to create the optical illusion that all lette
 
 </figure>
 
-In practice, there are many elements of a [typeface](/glossary/typeface)’s design that could be considered overshoots, such as the cupped [serifs](/glossary/serif) present on some [old style](/glossary/humanist_old_style) serif typefaces.
+In practice, there are many elements of a [typeface](/glossary/typeface)’s design that could be considered overshoots, such as the cupped [serifs](/glossary/serif) present on some [old style](/glossary/humanist_old_style) serif typefaces. 
