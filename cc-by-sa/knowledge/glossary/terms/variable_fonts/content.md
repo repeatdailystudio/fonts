@@ -14,4 +14,4 @@ There are three main benefits offered by variable fonts:
 2. **To express:** The control given to users to select axes values _directly_, such as a custom weight that is between two named instances of weight. For example, between Regular (400) and Medium (500), a weight of 427 might be just the right one to express a design intent perfectly.
 3. **To finesse:** The control given to programs to select axes values _indirectly_, based on context. For example, to automatically select an [optical size](/glossary/optical_sizes) instance using the current [point size](/glossary/point_size).
 
-The variables within variable fonts are controlled by [axes](/glossary/axis_in_variable_fonts) or instances. If the type designer, chooses, any variable in the type design can be assigned to a user-controllable axis.
+The variables within variable fonts are controlled by [axes](/glossary/axis_in_variable_fonts) or instances. If the type designer chooses, any variable in the type design can be assigned to a user-controllable axis.
